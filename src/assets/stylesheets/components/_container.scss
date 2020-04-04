@@ -1,0 +1,40 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.container-content {
+  max-width: 50em;
+  padding: 0 1em;
+}
+
+button{
+  background-color: rgba(255, 1, 0, 0.829);
+  color: white;
+  padding: 5px;
+}
+h3{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 5px;
+}
+
+h1{
+  color: rgb(255, 34, 34);
+}
+.li{
+  display: flex;
+}
+
+.div1{
+  display: inline-block;
+}
+.div2{
+  display: flex;
+  justify-content: left;
+}
+.li1{
+  text-align: left;
+}
+li{
+  font-size: 1.1em;
+}
