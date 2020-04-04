@@ -10,9 +10,9 @@ import L from 'leaflet';
 
 
 
-import Layout from 'components/Layout';
-import Container from 'components/Container';
-import Map from 'components/Map';
+import Layout from './components/Layout';
+import Container from './components/Container';
+import Map from './components/Map';
 
 // import gatsby_astronaut from 'assets/images/gatsby-astronaut.jpg';
 
