@@ -1,6 +1,6 @@
 import L from 'leaflet';
 
-import { isDomAvailable } from 'lib/util';
+import { isDomAvailable } from './lib/util';
 
 const useConfigureLeaflet = () => {
   if ( !isDomAvailable()) return;
